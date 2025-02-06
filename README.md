@@ -1,0 +1,1 @@
+# Automatizaci-n-de-Entrada-de-Datos-con-Reconocimiento-de-Im-genes
